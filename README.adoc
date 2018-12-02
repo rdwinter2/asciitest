@@ -30,6 +30,8 @@ CAUTION: Don't forget to add the `...-caption` document attributes in the header
 
 WARNING: You have no reason not to use Asciidoctor.
 
+include::f1.adoc[]
+
 [source]
  ----
 \ifdef::env-github[] <1> (1)
