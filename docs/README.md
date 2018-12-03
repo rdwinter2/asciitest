@@ -2,7 +2,7 @@ Hello this is a test.
 
 <!--- transclusion start cjp8t7uzw00003an38oonjul3 file fragment1.yml with regular expression [] DO NOT EDIT TRANSCLUDED TEXT, go to the source -->
 
-```{.yml}
+```yml
 ---
 - hosts: all
   tasks:
@@ -15,7 +15,7 @@ another thing
 
 <!--- transclusion start cjp8t7uzx00013an3hjqjeexs file fragment2.scala with regular expression [(.*ImproveHelloWorldDescriptionResponse\(([^()]|(?R))*\))] DO NOT EDIT TRANSCLUDED TEXT, go to the source -->
 
-```{.scala}
+```scala
 case class ImproveHelloWorldDescriptionResponse(
     helloWorldId: String,
     description: Option[String]
